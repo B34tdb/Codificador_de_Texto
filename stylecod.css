@@ -63,3 +63,23 @@ textarea{
     height: 30px;
     width: 150px;
 }
+
+.cesar{
+    background-color: gold;
+    width:125px;
+    height: 50px;
+    padding:15px;
+    border:solid;
+    border-color:black;
+    border-radius: 15px 15px;
+}
+
+.base{
+    background-color:salmon;
+    width:125px;
+    height:25px;
+    padding: 15px;
+    border:solid;
+    border-color:black;
+    border-radius:15px 15px;
+}
