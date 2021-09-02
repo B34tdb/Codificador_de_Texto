@@ -6,6 +6,6 @@ function bas(){
 }
 
 function base64Logic(cod1,escolha){
-    return (escolha)? btoa(cod1) : atob(cod1)
+    return (escolha)? btoa(cod1) : atob(cod1) 
 }
         
